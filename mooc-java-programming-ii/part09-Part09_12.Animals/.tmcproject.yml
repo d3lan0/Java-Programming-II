@@ -1,1 +1,2 @@
-force_new_sandbox: true
+---
+sandbox_image: eu.gcr.io/moocfi-public/tmc-sandbox-java
