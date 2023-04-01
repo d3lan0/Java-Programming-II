@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+o
+java:S12105"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ôý÷Ê
+R
+java:S1117"<Rename "cardValue" which hides the field declared at line 7.(‡îØ—

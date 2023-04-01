@@ -1,0 +1,6 @@
+
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(¯ÿë8ĞÊ·ëò0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ú™Ñ%8ÖÊ·ëò0
+o
+java:S1128"RRemove this unused import 'sun.management.snmp.jvmmib.JVM_MANAGEMENT_MIBOidTable'.(¯ÿë8ØÊ·ëò0
